@@ -1,0 +1,20 @@
+{
+  "name": "materialisecloud",
+  "version": "1.0.0",
+  "description": "Materialise Cloud API SDK for node.js",
+  "main": "./lib/materialisecloud.js",
+  "scripts": {
+    "test": "echo \"No tests yet\" && exit 1"
+  },
+  "keywords": [
+    "Materialise",
+    "Cloud",
+    "API",
+    "SDK"
+  ],
+  "author": "Materialise",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.0.1"
+  }
+}
